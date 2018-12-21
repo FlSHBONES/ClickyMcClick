@@ -1,2 +1,2 @@
 # ClickyMcClick
-Memory Gaem with React
+Memory Game with React
